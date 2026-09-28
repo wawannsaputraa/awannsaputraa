@@ -2,10 +2,10 @@
 
 I'm a passionate Software Developer from Indonesia, specializing in building scalable web and mobile applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🔭 I’m currently working on improving my Full Stack & Android Development skills.
-- 🌱 I’m currently learning Cloud Technologies and Advanced System Design.
-- 💼 I'm actively looking for **Remote Opportunities** worldwide.
-- 📫 How to reach me: wawanadesaputra17@gmail.com
+-  I’m currently working on improving my Full Stack & Android Development skills.
+-  I’m currently learning Cloud Technologies and Advanced System Design.
+-  I'm actively looking for **Remote Opportunities** worldwide.
+-  How to reach me: wawanadesaputra17@gmail.com
 
 ---
 
