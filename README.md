@@ -25,17 +25,6 @@ Software Developer focused on Android (Kotlin) and web technologies. I enjoy bui
 | **Tools** | Git, GitHub, VS Code, Android Studio |
 | **Design** | Figma, UI/UX Principles |
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wawannsaputraa&show_icons=true&theme=default&hide_border=true&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wawannsaputraa&layout=compact&theme=default&hide_border=true)
-
-</div>
-
-
 ## What I'm Working On
 
 - Improving Android development skills with modern architecture patterns
