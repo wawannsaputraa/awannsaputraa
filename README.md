@@ -4,7 +4,7 @@
 
 **Software Developer** · Indonesia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wawan-ade-saputra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wawanadesaputra)
 [![Email](https://img.shields.io/badge/Email-wawanadesaputra17@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wawanadesaputra17@gmail.com)
 
 ---
@@ -35,10 +35,6 @@ Software Developer focused on Android (Kotlin) and web technologies. I enjoy bui
 
 </div>
 
-## Recent Activity
-
-<!-- Ganti dengan activity tracker jika mau -->
-![WakaTime](https://wakatime.com/badge/user/your-id.svg)
 
 ## What I'm Working On
 
